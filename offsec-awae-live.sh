@@ -3,7 +3,7 @@
 ## Updated: 2021-11-01
 #
 ## Info:
-##   - Credentials: kali
+##   - Credentials: kali/kali
 ##   - Timezone: Etc/UTC
 ##   - Keyboard: US
 ##   - Metapackage: https://gitlab.com/kalilinux/packages/offsec-courses/-/blob/kali/master/debian/control
@@ -39,7 +39,6 @@ kali-desktop-xfce
 offsec-awae
 
 ## Extra applications
-vim
 code-oss
 gobuster
 jd-gui
