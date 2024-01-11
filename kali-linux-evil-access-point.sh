@@ -28,7 +28,6 @@ cat <<EOF > config/package-lists/kali.list.chroot
 # kali meta-package depends on everything we want
 kali-root-login
 kali-defaults
-kali-debtags
 kali-archive-keyring
 debian-installer-launcher
 cryptsetup

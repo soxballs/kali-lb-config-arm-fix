@@ -36,7 +36,6 @@ cat > config/package-lists/kali.list.chroot << EOF
 kali-root-login
 kali-defaults
 kali-menu
-kali-debtags
 kali-archive-keyring
 debian-installer-launcher
 alsa-tools
