@@ -9,7 +9,7 @@
 ##   - Metapackage: https://gitlab.com/kalilinux/packages/offsec-courses/-/blob/kali/master/debian/control
 #
 ## Example:
-##   $ bash <(curl "https://gitlab.com/kalilinux/recipes/live-build-config-examples/-/raw/master/offsec-awae-live.sh")
+##   $ bash <(curl "https://gitlab.com/kalilinux/recipes/live-build-config-examples/-/raw/main/offsec-awae-live.sh")
 #
 
 ## Exit on issue
